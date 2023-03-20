@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Roadmap
-Next improvements will be to always start by the player X, even when we restart the game.
+Next improvements will be a better UX/UI, possibility to take appointment via the website, user account.
 
 ## Technologies
 Project is created with:
