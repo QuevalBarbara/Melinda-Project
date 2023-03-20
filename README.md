@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Melinda-Project
+
+Refactoring, improving, and personalizing one of those projects by using React for MITxPro Coding certificate 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
@@ -68,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Roadmap
+Next improvements will be to always start by the player X, even when we restart the game.
+
+## Technologies
+Project is created with:
+* React bootstrap
+* JavaScript
